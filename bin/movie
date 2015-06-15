@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+var omdbapi = require('../lib/omdb');
+
+var argv = process.argv.slice(2);
+
+omdbapi.request(argv[0], function(err, movie) {
+  console.log(err, movie);
+});

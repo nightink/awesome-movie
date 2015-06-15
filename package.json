@@ -1,0 +1,28 @@
+{
+  "name": "node-movie",
+  "version": "0.1.0",
+  "description": "node search movie",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "node.js",
+    "svn",
+    "diff"
+  ],
+  "bin": {
+    "moive": "./bin/movie",
+    "m": "./bin/movie"
+  },
+  "author": "nightink<ink.chc@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nightink/movie"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nightink/node-movie/issues"
+  },
+  "homepage": "https://github.com/nightink/node-movie"
+}
