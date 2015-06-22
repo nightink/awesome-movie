@@ -45,9 +45,14 @@
 - [Before Sunrise 爱在黎明破晓前](http://www.bilibili.com/video/av1303557)
 - [Before Sunset 爱在日落黄昏时](http://www.bilibili.com/video/av1303839)
 - Before Midnight 爱在午夜降临前
+- [Who Am I - Kein System ist sicher 我是谁:没有绝对安全的系统](http://www.bilibili.com/video/av2278807)
+- [クローズ 热血高校](http://www.bilibili.com/video/av34402)
+- [Whiplash 爆裂鼓手](http://www.bilibili.com/video/av1970723)
+- [Silver Linings Playbook 乌云背后的幸福线](http://www.bilibili.com/video/av2442073)
 
 ## todo
 - [春光乍泄 Happy Together](http://www.acfun.tv/v/ac1388803)
+- [Birdman 鸟人](http://www.bilibili.com/video/av2436143)
 - [The Tree of Life 生命之树](http://www.acfun.tv/v/ac1923222)
 - [Kingdom of Heaven 天国王朝](http://www.acfun.tv/v/ac831755)
 - [The Classic 假如爱有天意](http://www.acfun.tv/v/ac1797437)
@@ -59,3 +64,5 @@
 - [羅生門 罗生门](http://www.bilibili.com/video/av1282526)
 - [星を追う子ども 追逐繁星的孩子](http://www.bilibili.com/video/av2040017)
 - [菊次郎の夏 菊次郎的夏天](http://www.bilibili.com/video/av212362)
+- [菊次郎の夏 菊次郎的夏天](http://www.bilibili.com/video/av212362)
+- [ももへの手纸 写给桃子的信](http://www.acfun.tv/v/ac1946477)
