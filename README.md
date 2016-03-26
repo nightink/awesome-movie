@@ -62,6 +62,8 @@
 - [歲月神偷 岁月神偷](http://www.acfun.tv/v/ac1390631)
 
 ## todo
+- [玛戈皇后](http://www.bilibili.com/video/av1124267)
+- [阿黛尔·雨果的故事](http://www.bilibili.com/video/av4192951)
 - [The Godfather 教父](http://www.bilibili.com/video/av1129942)
 - [Fight Club 搏击俱乐部](http://www.bilibili.com/video/av641714)
 - [春光乍泄 Happy Together](http://www.acfun.tv/v/ac1388803)
@@ -80,4 +82,5 @@
 - [ももへの手纸 写给桃子的信](http://www.acfun.tv/v/ac1946477)
 - [Mushishi 虫师真人版](http://www.bilibili.com/video/av2089965)
 - [スワロウテイル 燕尾蝶](http://www.bilibili.com/video/av643484)
+- [横道世之介](http://www.bilibili.com/video/av3039199)
 - [The Classic 假如爱有天意](http://www.acfun.tv/v/ac1797437)
